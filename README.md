@@ -38,7 +38,7 @@ ElevenLabs/
 1. **Clone the repository**
    ```bash
    git clone https://github.com/LEKKALAGANESH/Eleven-Labs-MCP-Integration.git
-   cd Eleven-abs-MCP-Integration
+   cd Eleven-Labs-MCP-Integration
    ```
 
 2. **Install dependencies**
