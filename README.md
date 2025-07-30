@@ -37,7 +37,7 @@ ElevenLabs/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/LEKKALAGANESH/Eleven-abs-MCP-Integration.git
+   git clone https://github.com/LEKKALAGANESH/Eleven-Labs-MCP-Integration.git
    cd Eleven-abs-MCP-Integration
    ```
 
